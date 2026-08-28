@@ -1,0 +1,4 @@
+robustness_check,specification,eligibility_rule,analysis_n,baseline_overlap_n,spearman_correlation_with_baseline,median_absolute_rank_movement,baseline_top_decile_n,robustness_top_decile_n,top_decile_overlap_n,top_decile_overlap_percent
+A_excluding_estates_burden,Equal-weight mean of five within-primary-sample component z-scores; estates_burden excluded,Frozen primary sample; at least 4 of 5 non-estates components,114,114,0.886564,8.0,12,12,8,66.7
+B_percentile_rank_components,Equal-weight mean of six within-primary-sample component percentile ranks,Frozen primary sample; at least 4 of 6 components,114,114,0.899694,7.0,12,12,7,58.3
+C_complete_case_six_components,Equal-weight mean of six component z-scores restandardised in the complete-case sample,All six components observed,112,112,0.999949,1.0,12,12,12,100.0

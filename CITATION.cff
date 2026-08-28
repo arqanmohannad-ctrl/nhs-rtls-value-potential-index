@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or analytical workflow, please cite it as below."
+title: "NHS RTLS Value Potential Index (RVPI): Reproducible Python pipeline"
+type: software
+authors:
+  - family-names: "Alarqan"
+    given-names: "Mohannad Mahmoud"
+version: 1.0.0
+date-released: 2026-08-28
+license: MIT
+keywords:
+  - healthcare analytics
+  - health economics
+  - real-time location systems
+  - NHS England
+  - composite index
+abstract: >-
+  A reproducible Python pipeline that integrates NHS England provider-level
+  open data to construct an ex-ante RTLS Value Potential Index for
+  potential-value prioritisation. The index is descriptive and non-causal.
+

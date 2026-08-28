@@ -1,0 +1,13 @@
+manual_review_flag,trust_code,trust_name,baseline_rank,baseline_score,identity_check,fuzzy_matching_used
+FLAGGED_FOR_FINAL_REVIEW,RXQ,BUCKINGHAMSHIRE HEALTHCARE NHS TRUST,1,1.027283,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RCB,YORK AND SCARBOROUGH TEACHING HOSPITALS NHS FOUNDATION TRUST,2,0.81784,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RCF,AIREDALE NHS FOUNDATION TRUST,3,0.716373,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RCX,THE QUEEN ELIZABETH HOSPITAL KING'S LYNN NHS FOUNDATION TRUST,4,0.712204,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RAJ,MID AND SOUTH ESSEX NHS FOUNDATION TRUST,5,0.662234,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,R1K,LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST,6,0.652689,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RAX,KINGSTON HOSPITAL NHS FOUNDATION TRUST,7,0.618521,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RA9,TORBAY AND SOUTH DEVON NHS FOUNDATION TRUST,8,0.600015,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RD1,ROYAL UNITED HOSPITALS BATH NHS FOUNDATION TRUST,9,0.584744,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RJ6,CROYDON HEALTH SERVICES NHS TRUST,10,0.519684,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RYR,UNIVERSITY HOSPITALS SUSSEX NHS FOUNDATION TRUST,11,0.478271,Exact ODS-code match; trust name manually verified,False
+FLAGGED_FOR_FINAL_REVIEW,RYJ,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,12,0.458717,Exact ODS-code match; trust name manually verified,False

@@ -1,0 +1,9 @@
+Stage,Criterion,Excluded at stage,Remaining
+Full provider spine,All trusts in beds/ERIC spine,0,207
+Exclude non-general-acute type,ERIC Trust Type is not a general acute category,88,119
+Exclude missing General & Acute beds,General & Acute available beds is missing,1,118
+Exclude non-positive General & Acute beds,General & Acute available beds <= 0,4,114
+Exclude missing A&E activity,A&E attendances is missing,0,114
+Exclude non-positive A&E activity,A&E attendances <= 0,0,114
+Exclude <4 available components,Fewer than four of six raw components available,0,114
+Primary acute-trust sample,All primary inclusion criteria met,0,114

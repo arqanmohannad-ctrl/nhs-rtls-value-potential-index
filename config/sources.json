@@ -1,0 +1,30 @@
+{
+  "analysis_period": "2025-26",
+  "sources": [
+    {
+      "name": "beds",
+      "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Beds-Open-Overnight-Web_File-Q4-2025-26.xlsx",
+      "filename": "beds_q4_2025_26.xlsx",
+      "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/bed-availability-and-occupancy/bed-data-overnight/"
+    },
+    {
+      "name": "ae",
+      "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-March-2026-revised-flkg42.csv",
+      "filename": "ae_march_2026.csv",
+      "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2025-26/"
+    },
+    {
+      "name": "rtt",
+      "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip",
+      "filename": "rtt_march_2026_revised.zip",
+      "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/",
+      "note": "Revised March 2026 full extract, published 9 July 2026; cleaner retains provider Incomplete Pathways only."
+    },
+    {
+      "name": "eric",
+      "url": "https://files.digital.nhs.uk/AA/2375EE/ERIC%20-%202024_25%20-%20Site%20data.csv",
+      "filename": "eric_site_2024_25.csv",
+      "landing_page": "https://digital.nhs.uk/data-and-information/publications/statistical/estates-returns-information-collection/summary-page-and-dataset-for-eric-2024-25"
+    }
+  ]
+}

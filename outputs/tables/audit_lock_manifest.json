@@ -1,0 +1,50 @@
+{
+  "audit_status": "locked_and_verified",
+  "live_run_date": "2026-08-15",
+  "pinned_periods": {
+    "beds": "KH03 overnight beds, Q4 2025-26",
+    "ae": "Monthly A&E, revised March 2026",
+    "rtt": "Provider incomplete RTT pathways, revised March 2026",
+    "eric": "ERIC site data, 2024-25"
+  },
+  "sources": {
+    "beds": {
+      "filename": "beds_q4_2025_26.xlsx",
+      "sha256": "6be516436644adbff1f3f3ead64df1c33e62bfc5559daeb7fc4a7eeafad845e7",
+      "retrieved_utc": "2026-08-15T14:16:49.355804+00:00",
+      "period": "KH03 overnight beds, Q4 2025-26"
+    },
+    "ae": {
+      "filename": "ae_march_2026.csv",
+      "sha256": "5a6557670b5eb8d2f2999cecec9e61fca334d2e555ab5dc35461dc3fe44d5058",
+      "retrieved_utc": "2026-08-15T14:16:49.356080+00:00",
+      "period": "Monthly A&E, revised March 2026"
+    },
+    "rtt": {
+      "filename": "rtt_march_2026_revised.zip",
+      "sha256": "87f8ead7be83f5c63fafac1cd441909b7306b7625aeda2dcf019ec949118fa80",
+      "retrieved_utc": "2026-08-15T14:16:49.365499+00:00",
+      "period": "Provider incomplete RTT pathways, revised March 2026"
+    },
+    "eric": {
+      "filename": "eric_site_2024_25.csv",
+      "sha256": "a9b6798fd6bc57aaf810164f575d4ac914ee313834cdfa87cabbe05f23dfe84f",
+      "retrieved_utc": "2026-08-15T14:16:49.381136+00:00",
+      "period": "ERIC site data, 2024-25"
+    }
+  },
+  "locked_outputs": {
+    "data/final/rvpi_primary_acute_trusts.csv": "113ee9cc13cd0b6483e03a7f520177c9731892f7d210fda5292282d972269c2e",
+    "outputs/tables/manuscript_table_1_data_sources_indicators.csv": "79926667a4233bd1fca76e124948a5b31bc3dc556e52ddb595f12c50370600c7",
+    "outputs/tables/manuscript_table_2_primary_sample_flow.csv": "cb78fa87bab94a403b4107818531887ba89317efa6e8af29a5d41dba9f6bafda",
+    "outputs/tables/manuscript_table_3_descriptive_statistics.csv": "3c675db8f51393f9c2ee4259d6a710d7b67ebc59b4df193ee58bd276b6f5bacf",
+    "outputs/tables/manuscript_table_4_top_decile_rvpi.csv": "ba57a654a52d63c35d2de5b415c325b6dd141cbffadccddf8ef03a36383dc726"
+  },
+  "generated_outputs": {
+    "robustness_summary.csv": "f69017ec1bf4a8bcc0c7b05b9c8dd6f2fc288ae7901579c4f9efc9d9cc8e1a7b",
+    "robustness_rank_comparison.csv": "ccd429f9a3bc4860ec0a7292be92aac96872adf486512a64617ba15719214a2f",
+    "top_decile_manual_review.csv": "cece333c7855462d65724266f05d725bb3890a35f497a762024e28d93c64e783"
+  },
+  "linkage": "Exact ODS organisation code; no fuzzy joins",
+  "interpretation": "RVPI supports RTLS value potential and potential-value prioritisation; it is not a causal RTLS effect or ROI estimate."
+}

@@ -1,0 +1,8 @@
+Indicator,Data source and period,Construction,Direction
+Bed occupancy pressure,"NHS England KH03 overnight beds, Q4 2025-26",General & Acute occupied beds / General & Acute available beds,Higher = greater occupancy pressure
+A&E delay burden,"NHS England monthly A&E, March 2026",1 - attendances within 4 hours / total attendances,Higher = greater four-hour delay burden
+Emergency admissions intensity,"NHS England monthly A&E, March 2026; KH03 Q4 2025-26",Emergency admissions / General & Acute available beds,Higher = greater emergency throughput per bed
+Waiting-list burden,"NHS England revised provider RTT, March 2026",Incomplete pathways over 18 weeks / total incomplete pathways,Higher = greater long-wait burden
+Estates burden,"NHS England ERIC site data, 2024-25",Total cost to eradicate backlog / occupied floor area (GBP/m2),Higher = greater estates backlog burden
+Resource/capacity strain,"NHS England monthly A&E, March 2026; KH03 Q4 2025-26",A&E attendances / General & Acute available beds,Higher = greater activity relative to capacity
+RVPI,All six component sources,Equal-weight mean of available component z-scores; minimum 4 of 6,Higher = greater RTLS value potential

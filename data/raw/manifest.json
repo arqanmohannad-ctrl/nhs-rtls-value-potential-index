@@ -1,0 +1,38 @@
+[
+  {
+    "name": "beds",
+    "filename": "beds_q4_2025_26.xlsx",
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Beds-Open-Overnight-Web_File-Q4-2025-26.xlsx",
+    "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/bed-availability-and-occupancy/bed-data-overnight/",
+    "bytes": 141234,
+    "sha256": "6be516436644adbff1f3f3ead64df1c33e62bfc5559daeb7fc4a7eeafad845e7",
+    "retrieved_utc": "2026-08-15T14:16:49.355804+00:00"
+  },
+  {
+    "name": "ae",
+    "filename": "ae_march_2026.csv",
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/05/Monthly-AE-March-2026-revised-flkg42.csv",
+    "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2025-26/",
+    "bytes": 28953,
+    "sha256": "5a6557670b5eb8d2f2999cecec9e61fca334d2e555ab5dc35461dc3fe44d5058",
+    "retrieved_utc": "2026-08-15T14:16:49.356080+00:00"
+  },
+  {
+    "name": "rtt",
+    "filename": "rtt_march_2026_revised.zip",
+    "url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2026/07/Full-CSV-data-file-Mar26-ZIP-3M-revised.zip",
+    "landing_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/",
+    "bytes": 3580888,
+    "sha256": "87f8ead7be83f5c63fafac1cd441909b7306b7625aeda2dcf019ec949118fa80",
+    "retrieved_utc": "2026-08-15T14:16:49.365499+00:00"
+  },
+  {
+    "name": "eric",
+    "filename": "eric_site_2024_25.csv",
+    "url": "https://files.digital.nhs.uk/AA/2375EE/ERIC%20-%202024_25%20-%20Site%20data.csv",
+    "landing_page": "https://digital.nhs.uk/data-and-information/publications/statistical/estates-returns-information-collection/summary-page-and-dataset-for-eric-2024-25",
+    "bytes": 6093038,
+    "sha256": "a9b6798fd6bc57aaf810164f575d4ac914ee313834cdfa87cabbe05f23dfe84f",
+    "retrieved_utc": "2026-08-15T14:16:49.381136+00:00"
+  }
+]

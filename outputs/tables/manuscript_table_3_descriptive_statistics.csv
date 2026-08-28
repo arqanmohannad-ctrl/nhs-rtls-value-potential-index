@@ -1,0 +1,8 @@
+Measure,Unit,N,Mean,SD,Median,P25,P75,Min,Max
+Bed occupancy pressure,%,114,93.07,4.68,93.69,90.60,96.55,77.83,99.91
+A&E delay burden,%,114,25.80,7.58,24.81,20.63,31.13,8.86,49.19
+Emergency admissions intensity,admissions per bed,114,5.63,1.95,5.40,4.42,6.50,1.28,11.88
+Waiting-list burden,%,113,34.47,5.54,35.51,31.91,37.92,16.22,49.40
+Estates burden,GBP per m2,113,749.21,647.63,555.22,350.06,975.94,0.00,"4,457.11"
+Resource/capacity strain,attendances per bed,114,22.96,6.69,21.77,18.31,26.41,9.61,42.93
+RVPI,mean z-score,114,0.00,0.40,0.01,-0.26,0.26,-1.06,1.03

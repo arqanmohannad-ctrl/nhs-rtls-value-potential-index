@@ -1,0 +1,36 @@
+{
+  "full_provider_sensitivity": {
+    "sample": "full_provider_sensitivity",
+    "performed": true,
+    "k": 2,
+    "complete_cases": 119,
+    "silhouette_scores": {
+      "2": 0.8294458028698706,
+      "3": 0.2860948524571811,
+      "4": 0.3091941369780332,
+      "5": 0.3160798709799204
+    },
+    "interpretation": "Exploratory descriptive grouping; not validated RTLS treatment segments."
+  },
+  "primary_acute_trusts": {
+    "sample": "primary_acute_trusts",
+    "performed": true,
+    "k": 5,
+    "complete_cases": 112,
+    "silhouette_scores": {
+      "2": 0.19785102676777258,
+      "3": 0.17253796733942342,
+      "4": 0.18452863168400935,
+      "5": 0.20031472623978508
+    },
+    "interpretation": "Exploratory descriptive grouping; not validated RTLS treatment segments."
+  },
+  "stability": {
+    "rank_overlap_n": 114,
+    "spearman_rank_correlation": 0.879127599684089,
+    "median_absolute_rank_change": 7.5,
+    "cluster_overlap_n": 112,
+    "adjusted_rand_index": 0.0,
+    "ordered_cluster_label_agreement": 0.08035714285714286
+  }
+}

@@ -1,0 +1,9 @@
+step,criterion,overall_flag_count,sequential_excluded,remaining
+full_provider_spine,All trusts in beds/ERIC spine,207,0,207
+exclude_non_general_acute_type,ERIC Trust Type is not a general acute category,88,88,119
+exclude_missing_general_acute_beds,General & Acute available beds is missing,23,1,118
+exclude_zero_or_negative_general_acute_beds,General & Acute available beds <= 0,35,4,114
+exclude_missing_ae_activity,A&E attendances is missing,57,0,114
+exclude_zero_or_negative_ae_activity,A&E attendances <= 0,9,0,114
+exclude_fewer_than_four_components,Fewer than four of six raw components available,77,0,114
+primary_acute_trust_sample,All primary inclusion criteria met,114,0,114

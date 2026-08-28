@@ -1,0 +1,13 @@
+sample,component,total_n,observed_n,missing_n,missing_percent
+full_provider_sensitivity,bed_occupancy_pressure,207,149,58,28.019323671497585
+full_provider_sensitivity,ae_delay_burden,207,141,66,31.884057971014492
+full_provider_sensitivity,emergency_admissions_intensity,207,130,77,37.19806763285024
+full_provider_sensitivity,waiting_list_burden,207,150,57,27.536231884057973
+full_provider_sensitivity,estates_burden,207,205,2,0.966183574879227
+full_provider_sensitivity,resource_capacity_strain,207,130,77,37.19806763285024
+primary_acute_trusts,bed_occupancy_pressure,114,114,0,0.0
+primary_acute_trusts,ae_delay_burden,114,114,0,0.0
+primary_acute_trusts,emergency_admissions_intensity,114,114,0,0.0
+primary_acute_trusts,waiting_list_burden,114,113,1,0.8771929824561403
+primary_acute_trusts,estates_burden,114,113,1,0.8771929824561403
+primary_acute_trusts,resource_capacity_strain,114,114,0,0.0

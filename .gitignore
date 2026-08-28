@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+~$*
+
+# Local extraction and plotting caches
+data/intermediate/rtt_extracted/
+data/intermediate/.matplotlib/
+
+# Official source binaries are acquired from pinned URLs and are not redistributed
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/manifest.json
+
+# Optional journal-facing exports are reproducible but not tracked here
+outputs/tables/manuscript_tables_and_figure_captions.docx
+outputs/tables/manuscript_tables_and_figure_captions.md
